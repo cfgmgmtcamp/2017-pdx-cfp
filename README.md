@@ -27,7 +27,7 @@ But also topics such as Configuration Management and :
 
 Submissions are due by June 15th  ! Before you submit, please make sure that you will be available to attend ConfigManagementCamp on August 3rd in Portland, Oregon
 
-Berlin is a single track event with limited room for speakers, we will open up the CFP for Config Management Camp Gent later this year  which will have more slots available.
+Portland is a single track event with limited room for speakers, we will open up the CFP for Config Management Camp Gent later this year  which will have more slots available.
 
 You should also know that because we are using an open proposals process, all of the information submitted below will be made public.
 
