@@ -1,6 +1,6 @@
 ##  ConfigManagementCamp Portland  2017 CFP
 
-Config Management Camp Portlant will be on August 3rd 2017.
+Config Management Camp Portland will be on August 3rd 2017.
 Right after Devopsdays PDX. 
 https://www.devopsdays.org/events/2017-portland/welcome/
 
@@ -39,6 +39,7 @@ You should also know that because we are using an open proposals process, all of
 - Add your proposal to the ignites or  presentations  dir. An example and a template talk is available. 
 - Add your bio to the speaker dir.
 - Send us a Pull Request.
+
 
 
 
