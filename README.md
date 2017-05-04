@@ -1,4 +1,4 @@
-** ConfigManagementCamp Portland  2017 CFP
+##  ConfigManagementCamp Portland  2017 CFP
 
 We are looking for speakers for topics that are relevant for all topics Infrastrucutre as Code and Configuration  management tools (Application Management, Continuous Delivery, Network Devices, Distributed Systems, etc.), and topics that tackle new evolutions in configuration management. Please see http://cfgmgmtcamp.eu for more details.
 
