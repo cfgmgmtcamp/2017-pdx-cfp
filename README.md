@@ -27,3 +27,13 @@ Berlin is a single track event with limited room for speakers, we will open up t
 You should also know that because we are using an open proposals process, all of the information submitted below will be made public.
 
 
+
+## How to submit a CFP 
+
+- Fork this site (https://github.com/cfgmgmtcamp/2017-pdx-cfp/)
+- Add your proposal to the ignites or  presentations  dir. An example and a template talk is available. 
+- Add your bio to the speaker dir.
+- Send us a Pull Request.
+
+
+
