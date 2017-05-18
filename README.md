@@ -31,8 +31,6 @@ Portland is a single track event with limited room for speakers, we will open up
 
 You should also know that because we are using an open proposals process, all of the information submitted below will be made public.
 
-Config Management Camp follows the same [code of conduct](https://www.devopsdays.org/conduct/) as DevOpsDays PDX. By submitting a proposal, you are agreeing to that code of conduct.
-
 ## How to submit a CFP
 
 This process is required for each individual submission ( 1 PR = 1 CfP )
