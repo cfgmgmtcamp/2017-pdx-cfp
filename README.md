@@ -35,6 +35,8 @@ Config Management Camp follows the same [code of conduct](https://www.devopsdays
 
 ## How to submit a CFP
 
+This process is required for each individual submission ( 1 PR = 1 CfP )
+
 - Fork this site (https://github.com/cfgmgmtcamp/2017-pdx-cfp/)
 - Add your proposal to the __ignites__ or __presentations__ dir. An example and a template talk is available.
 - Add your bio to the __speaker__ dir.
