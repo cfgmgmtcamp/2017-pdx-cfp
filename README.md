@@ -41,5 +41,6 @@ This process is required for each individual submission ( 1 PR = 1 CfP )
 - Send us a Pull Request.
 
 
+As an alternative you can send us an email to  cfp@cfgmgmtcamp.eu 
 
 
