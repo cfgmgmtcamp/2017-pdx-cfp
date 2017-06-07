@@ -25,7 +25,7 @@ But also topics such as Configuration Management and :
 - Datacenter- public cloud, private cloud, physical plant
 - Monitoring
 
-Submissions are due by June 3th  ! Before you submit, please make sure that you will be available to attend ConfigManagementCamp on August 3rd in Portland, Oregon, USA.
+Submissions are due by June 16th  (updated)  ! Before you submit, please make sure that you will be available to attend ConfigManagementCamp on August 3rd in Portland, Oregon, USA.
 
 Portland is a single track event with limited room for speakers, we will open up the CFP for Config Management Camp Gent later this year  which will have more slots available.
 
